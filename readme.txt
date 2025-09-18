@@ -1,1 +1,1 @@
-test
+In this research we introduce DiffText-Kh, one of the earliest diffusion-based models for Khmer scene text generation in real-world scenarios, which also generalizes well to low resource languages, establishing a foundation for future low-resource script synthesis research. Soon we will public the available dataset of 100K Khmer visual text images, offering a valuable resource to advance future computer vision research on Khmer.
